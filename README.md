@@ -1,3 +1,7 @@
 # flutter_demo_app
 
-A new Flutter project.
+My ID App -
+
+This simple ID app marks my first and tiny steps towards learning app development usinf Flutter and Dart.
+Sharing this here to keep track of my growth in this field!
+
